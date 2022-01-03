@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\user\Desktop\Emsi\Complements de formation\2Machines et Deep Learning for Java Application with DL4j\model_DL_cnn_reconnaissanceDeNombres\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
